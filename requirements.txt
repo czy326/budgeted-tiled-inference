@@ -1,0 +1,8 @@
+numpy
+opencv-python
+scipy
+matplotlib
+torch
+ultralytics
+rasterio
+fiona
